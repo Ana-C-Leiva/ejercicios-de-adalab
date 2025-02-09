@@ -1,0 +1,101 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOcfqwxd46HdOjowLXc5T7O",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Ana-C-Leiva/ejercicios-de-adalab/blob/main/platzi-colab-01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 6,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Efsk9B7AYzzR",
+        "outputId": "137007ca-e1b4-46ce-8008-9a840a288161"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hola, platzinauta!\n",
+            "Hola, Indi!!\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hola, platzinauta!\")\n",
+        "print(\"Hola, Indi!!\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"hola  nairi\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9Uisry3vaKoE",
+        "outputId": "599c14c7-961d-4e12-e64e-6d2f9b68005a"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hola  nairi\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"bgtsr67ughs\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "u-dhxjOzariG",
+        "outputId": "ee600acb-8d8b-4eb9-a4cf-229330e25c08"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "bgtsr67ughs\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
